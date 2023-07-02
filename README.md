@@ -1,1 +1,1 @@
-# Advice-generator-app
+# news-homepage-main
